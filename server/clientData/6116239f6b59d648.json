@@ -1,0 +1,80 @@
+{
+  "clientID": "6116239f6b59d648",
+  "CommandQue": [],
+  "SMSData": [],
+  "CallData": [],
+  "contacts": [],
+  "wifiNow": [],
+  "wifiLog": [],
+  "clipboardLog": [
+    {
+      "time": "2023-06-14T23:23:51.386Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.397Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.398Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.400Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.402Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.403Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.409Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.411Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.412Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.413Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.414Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.415Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.418Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.419Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    },
+    {
+      "time": "2023-06-14T23:23:51.420Z",
+      "content": "It never really worked, and new AccessRules stop us from using camera in the background"
+    }
+  ],
+  "notificationLog": [],
+  "enabledPermissions": [],
+  "apps": [],
+  "GPSData": [],
+  "GPSSettings": {
+    "updateFrequency": 0
+  },
+  "downloads": [],
+  "currentFolder": []
+}

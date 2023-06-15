@@ -2,15 +2,126 @@
   "admin": {
     "username": "admin",
     "password": "5f4dcc3b5aa765d61d8327deb882cf99",
-    "loginToken": "a158bcd54404881ad61f2acbeeb76135",
+    "loginToken": "e7de20ba6715ae7c646b69199ef36583",
     "logs": [
       {
         "time": "2020-01-11T15:23:07.971Z",
         "type": "SUCCESS",
         "message": "Build Succeded!"
+      },
+      {
+        "time": "2023-06-14T23:05:58.813Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2023-06-14T23:10:21.826Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
+      },
+      {
+        "time": "2023-06-14T23:10:46.777Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 Connected"
+      },
+      {
+        "time": "2023-06-14T23:23:24.234Z",
+        "type": "INFO",
+        "message": "Requested 0xSM From 6116239f6b59d648"
+      },
+      {
+        "time": "2023-06-14T23:23:51.387Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.398Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.399Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.401Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.402Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.404Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.409Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.411Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.412Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.414Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.415Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.416Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.418Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.420Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
+      },
+      {
+        "time": "2023-06-14T23:23:51.421Z",
+        "type": "INFO",
+        "message": "6116239f6b59d648 ClipBoard Recieved"
       }
     ],
     "ipLog": []
   },
-  "clients": []
+  "clients": [
+    {
+      "clientID": "6116239f6b59d648",
+      "firstSeen": "2023-06-14T23:10:46.767Z",
+      "lastSeen": "2023-06-14T23:10:46.767Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "192.168.0.100",
+        "clientGeo": {},
+        "device": {
+          "model": "SM-S908N",
+          "manufacture": "samsung",
+          "version": "9"
+        }
+      }
+    }
+  ]
 }
