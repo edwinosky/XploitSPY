@@ -20931,6 +20931,19 @@
      border-radius: .28571429rem;
      margin-top: .35714286em
  }
+ @media screen and (max-width: 600px) {
+    .ui.secondary.menu {position: relative;}
+    .ui.secondary.menu {
+      position: absolute;
+      right: 0;
+      top: 0;
+    }
+    .ui.secondary.menu {
+      float: none;
+      display: block;
+      text-align: left;
+    }
+  }
  
  .ui.menu .pointing.dropdown.item .menu {
      margin-top: .75em
