@@ -1,9 +1,3 @@
-/*
- *   XploitSPY
- *   An Android Spying Tool
- *   By Team XploitWizer
- */
-
 const express = require('express'),
 	app = express(),
 	server = require('http').createServer(app),
