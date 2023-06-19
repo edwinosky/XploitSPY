@@ -1,6 +1,11 @@
 {
   "clientID": "6116239f6b59d648",
-  "CommandQue": [],
+  "CommandQue": [
+    {
+      "type": "0xLO",
+      "uid": 827
+    }
+  ],
   "SMSData": [],
   "CallData": [],
   "contacts": [],

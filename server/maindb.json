@@ -2,7 +2,7 @@
   "admin": {
     "username": "vip2021",
     "password": "05a5cf06982ba7892ed2a6d38fe832d6",
-    "loginToken": "50802234bdb25307210973fbc5551270",
+    "loginToken": "6413899047e67222ae1f6a30140fb8b3",
     "logs": [
       {
         "time": "2020-01-11T15:23:07.971Z",
@@ -30,36 +30,6 @@
         "message": "Requested 0xSM From 6116239f6b59d648"
       },
       {
-        "time": "2023-06-14T23:23:51.387Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-14T23:23:51.398Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-14T23:23:51.399Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-14T23:23:51.401Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-14T23:23:51.402Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-14T23:23:51.404Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
         "time": "2023-06-14T23:23:51.409Z",
         "type": "INFO",
         "message": "6116239f6b59d648 ClipBoard Recieved"
@@ -76,316 +46,6 @@
       },
       {
         "time": "2023-06-14T23:23:51.414Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-14T23:23:51.415Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-14T23:23:51.416Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-14T23:23:51.418Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-14T23:23:51.420Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-14T23:23:51.421Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.766Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.797Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.828Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.847Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.863Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.867Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.871Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.872Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.874Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.876Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.877Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.879Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.880Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.882Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.883Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.884Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.886Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.887Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.888Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.889Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.890Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.892Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.894Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.895Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.900Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.903Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.940Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.944Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.953Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.955Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.967Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.968Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.970Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.975Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.982Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.985Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.988Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.993Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.997Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:48.998Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.003Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.017Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.035Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.037Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.039Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.051Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.054Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.062Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.064Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.066Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.071Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.072Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.074Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.076Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.078Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.080Z",
-        "type": "INFO",
-        "message": "6116239f6b59d648 ClipBoard Recieved"
-      },
-      {
-        "time": "2023-06-15T00:12:49.081Z",
         "type": "INFO",
         "message": "6116239f6b59d648 ClipBoard Recieved"
       },
@@ -428,6 +88,11 @@
         "time": "2023-06-15T00:12:53.506Z",
         "type": "INFO",
         "message": "6116239f6b59d648 Disconnected"
+      },
+      {
+        "time": "2023-06-19T01:15:27.067Z",
+        "type": "SUCCESS",
+        "message": "Build Succeded!"
       }
     ],
     "ipLog": []
@@ -439,12 +104,82 @@
       "lastSeen": "2023-06-15T00:12:53.507Z",
       "isOnline": false,
       "dynamicData": {
-        "clientIP": "192.168.0.100",
-        "clientGeo": {},
+        "clientIP": "187.152.199.100",
+        "clientGeo": {
+          "country": "CO"
+        },
         "device": {
           "model": "SM-S908N",
           "manufacture": "samsung",
-          "version": "9"
+          "version": "ANDROID 9"
+        }
+      }
+    },
+    {
+      "clientID": "1009283481120835",
+      "firstSeen": "2023-06-10T23:5:25.432Z",
+      "lastSeen": "2023-06-17T00:11:41.211Z",
+      "isOnline": false,
+      "dynamicData": {
+        "clientIP": "211.762.169.188",
+        "clientGeo": {
+          "country": "PE"
+        },
+        "device": {
+          "model": "MOTO G 4",
+          "manufacture": "motorola",
+          "version": "ANDROID 11"
+        }
+      }
+    },
+    {
+      "clientID": "8509216297511169",
+      "firstSeen": "2023-06-18T23:10:46.767Z",
+      "lastSeen": "2023-06-18T00:12:53.507Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "168.562.765.152",
+        "clientGeo": {
+          "country": "CO"
+        },
+        "device": {
+          "model": "REDMI NOTE 12",
+          "manufacture": "xiaomi",
+          "version": "ANDROID 12"
+        }
+      }
+    },
+    {
+      "clientID": "9836211756630928",
+      "firstSeen": "2023-06-11T23:7:32.124Z",
+      "lastSeen": "2023-06-18T00:12:53.507Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "122.167.22.871",
+        "clientGeo": {
+          "country": "CO"
+        },
+        "device": {
+          "model": "REDMI NOTE 10",
+          "manufacture": "xiaomi",
+          "version": "ANDROID 12"
+        }
+      }
+    },
+    {
+      "clientID": "7650319992147862",
+      "firstSeen": "2023-06-16T23:10:46.767Z",
+      "lastSeen": "2023-06-18T00:18:31.321Z",
+      "isOnline": true,
+      "dynamicData": {
+        "clientIP": "172.155.109.021",
+        "clientGeo": {
+          "country": "MX"
+        },
+        "device": {
+          "model": "S20 SERIES",
+          "manufacture": "samsung",
+          "version": "ANDROID 11"
         }
       }
     }
